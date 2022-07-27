@@ -1,0 +1,59 @@
+body {
+  background-color: #F4F4F4;
+  font-family: Sans-Serif;
+}
+
+.header {
+	background-color: #002d6c;
+	color: #ffffff;
+	margin-left: 0;
+	margin-right: 0;
+	padding: 0px 10px 0px 10px; /*up right down left */
+	display: table;
+	font: Serif;
+	text-transform: uppercase;
+}
+
+.depth0 {
+	display: table;
+	background-color: #f26334;
+	margin: 10px 10px 10px 10px; 
+	padding: 0px 10px 10px 10px; 
+	/*border: dotted; Tijdens ontwikkelen*/
+}
+
+.depth1 {
+	background-color: #B1B3B3;
+	display: table;
+	margin: 10px 10px 10px 10px; 
+	padding: 10px 10px 10px 10px; 
+	/*border: double; Tijdens ontwikkelen*/
+}
+
+.depth2 {
+	margin: 10px 20px 10px 30px; 
+	/*border: solid; Tijdens ontwikkelen*/
+}
+
+.depth3 {
+	margin: 10px 20px 10px 30px; 
+	/*border: solid; Tijdens ontwikkelen*/
+}
+
+.depth4 {
+	margin: 10px 20px 10px 30px; 
+	/*border: solid; Tijdens ontwikkelen*/
+}
+
+.depth5 {
+	margin: 10px 20px 10px 30px; 
+	/*border: solid; Tijdens ontwikkelen*/
+}
+
+p {
+  color: red;
+}
+
+img {
+	display: block;
+}
